@@ -36,7 +36,7 @@ const About = () => {
                 <div className="text-sm text-muted-foreground">Focus</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl font-bold text-primary">2024</div>
+                <div className="text-3xl font-bold text-primary">2025</div>
                 <div className="text-sm text-muted-foreground">Started</div>
               </div>
             </div>
