@@ -38,7 +38,7 @@ const Hero = () => {
               <img
                 src="/lovable-uploads/f1a05d39-732a-445a-a535-71b0070c6fb4.png"
                 alt="Mpho Maphalle"
-                className="relative z-10 w-80 h-80 md:w-96 md:h-96 object-cover rounded-full border-4 border-card shadow-2xl"
+                className="relative z-10 w-80 h-80 md:w-96 md:h-96 object-cover object-center rounded-full border-4 border-card shadow-2xl"
               />
             </div>
           </div>
