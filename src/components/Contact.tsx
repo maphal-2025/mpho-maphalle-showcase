@@ -28,7 +28,7 @@ const Contact = () => {
     {
       icon: Github,
       name: "GitHub",
-      link: "#",
+      link: "https://github.com/maphal-2025",
       color: "hover:text-foreground"
     },
     {
