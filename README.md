@@ -1,6 +1,6 @@
-# Welcome to your Lovable project
 
-## Project info
+
+## Portfolio Project
 
 **Pitch link**: https://www.canva.com/design/DAGsIS1nlpY/53gcEpUdqInKXARuBrqypw/edit?utm_content=DAGsIS1nlpY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
