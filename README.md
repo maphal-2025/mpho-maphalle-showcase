@@ -7,12 +7,12 @@
 **Portfolio URL**: https://lovable.dev/projects/f96439e5-0432-471f-8b2b-a7dce3affb2d
 
 
-# 👨🏽‍💻 Mpho Maphalle – Software Developer Student | PLP Cohort
+# Mpho Maphalle – Software Developer Student | PLP Cohort
 
 Welcome to my portfolio! I'm a passionate and purpose-driven software developer currently enrolled in the **Power Learning Program (PLP)**, refining my technical foundation and building impactful projects that blend innovation, wellness, and ethical AI. Software testing
 
 # Career Path 
-# Step 1: Identify Your Starting Point 
+# Step 1:Starting Point 
 Current Role: Junior Software Tester  
 # Step 2: Define Career Goals 
 # Short-Term Goals (1–2 years): 
