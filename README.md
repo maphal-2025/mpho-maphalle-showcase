@@ -4,8 +4,7 @@
 
 **Pitch link**: https://www.canva.com/design/DAGsIS1nlpY/53gcEpUdqInKXARuBrqypw/edit?utm_content=DAGsIS1nlpY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-**Portfolio URL**: https://preview--mpho-maphalle-showcase.lovable.app/
-Link: https://preview--mphos-test-craft-06.lovable.app/
+**Portfolio URL**: https://preview--mphos-test-craft-06.lovable.app/
 
 
 # Mpho Maphalle – Software Developer Student | PLP Cohort
