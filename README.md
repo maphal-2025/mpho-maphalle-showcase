@@ -6,27 +6,70 @@
 
 **Portfolio URL**: https://preview--mphos-test-craft-06.lovable.app/
 
+# 👋 Hi, I'm Mpho Maphalle
 
-# Mpho Maphalle – Software Developer Student | PLP Cohort
+Welcome to my GitHub portfolio — a collection of my work, experiments, and passion projects across full stack development, cybersecurity, and software testing. I'm driven by a deep commitment to building secure, scalable, and ethical digital solutions.
 
-Welcome to my portfolio! I'm a passionate and purpose-driven software developer currently enrolled in the **Power Learning Program (PLP)**, refining my technical foundation and building impactful projects that blend innovation, wellness, and ethical AI. Software testing
+## 🚀 About Me
+
+- 💻 **Full Stack Developer**  
+  Certified through the **FNB App Academy**, I specialize in secure and enterprise-grade application development, with experience in both frontend and backend technologies.
+
+- 🔐 **Cybersecurity Enthusiast**  
+  Completed an **Introduction to Cybersecurity** course with **Cisco**, and earned a **Certified Network Security Specialist** credential from the **International Cybersecurity Institute**. I focus on building resilient systems and understanding the principles of digital defense.
+
+- 🧪 **Software Testing Apprentice**  
+  Currently studying **Software Testing** at **PLP Academy**, gaining expertise in test design techniques, defect management, and quality assurance methodologies.
+
+- 🛠️ **IT Technician Experience**  
+  I spent **3 years at Makro South Africa** as an IT Technician, supporting hardware, software, and network infrastructure in high-demand retail environments.
+
+## 🧠 Skills & Tools
+
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express, MongoDB
+- Testing: Defect tracking (Jira), Risk-based Testing, Test Case Design
+- Security: Network protocols, Threat modeling, Secure coding practices
+- Other: Git, GitHub, VS Code, Postman
+
+## 🌍 What I'm Working On
+
+- Enhancing software testing workflows and case documentation  
+- Exploring ethical AI applications and fairness-aware data tools  
+- Building portfolio projects that blend storytelling with technology
+
+## ✨ Goals
+
+I'm passionate about bridging technical depth with human-centered design. My aim is to build systems that empower communities, protect privacy, and uphold transparency — especially in critical domains like fintech, healthcare, and education.
+
+## 📫 Let’s Connect
+
+Feel free to reach out for collaboration, freelance opportunities, or just to share ideas:
+
+- 📧 Email: [your.email@example.com]
+- 🌐 Portfolio: [your-portfolio-link]
+
+---
+
+> "Technology is most powerful when it empowers everyone." — Mpho
+
 
 # Career Path 
-# Step 1:Starting Point 
+**Step 1:Starting Point** 
 Current Role: Junior Software Tester  
-# Step 2: Define Career Goals 
-# Short-Term Goals (1–2 years): 
+**Step 2: Define Career Goals** 
+**Short-Term Goals (1–2 years):** 
 • Gain hands-on experience in test automation (e.g., Selenium, Playwright) 
 • Master bug tracking tools (like JIRA) and test management platforms 
 • Earn certifications like ISTQB Foundation Level or Certified Agile Tester 
 • Start contributing to testing documentation and planning 
-# Long-Term Goals (5+ years): 
+**Long-Term Goals (5+ years):** 
 • Become a QA Lead or Test Manager overseeing multiple teams 
 • Specialize in performance or security testing 
 • Break into DevOps testing and CI/CD pipeline integration 
 • Mentor junior testers and contribute to industry webinars or talks 
 # Step 3: Research Skills & Certifications 
-# Role Level                   Key Skills                                           Recommended Certifications 
+**Role Level**                **Key Skills**                                       **Recommended Certifications** 
 Entry-Level Tester           Manual testing, test case writing, basics            ISTQB Foundation Level 
 Mid-Level Tester             Automation (Selenium, Python/Java), API testing      ISTQB Advanced, Certified Agile Tester 
 Senior/Lead                  Strategy, leadership, performance/security           Test Manager Certification, DevOps testing certs 
