@@ -46,12 +46,12 @@ I'm passionate about bridging technical depth with human-centered design. My aim
 
 Feel free to reach out for collaboration, freelance opportunities, or just to share ideas:
 
-- 📧 Email: [your.email@example.com]
-- 🌐 Portfolio: [your-portfolio-link]
+- 📧 Email: mpho.maphalle@gmail.com
+- 🌐 Portfolio: https://preview--mphos-test-craft-06.lovable.app/
 
 ---
 
-> "Technology is most powerful when it empowers everyone." — Mpho
+> "Technology is most powerful when it empowers everyone." 
 
 
 # Career Path 
